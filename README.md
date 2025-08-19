@@ -64,35 +64,38 @@ Cleaned duplicate values where necessary before visualization.
 
 **Revenue & Net Income Trend**
 
-- Apple’s revenue has shown steady growth with slight fluctuations in recent years.
-- Net income closely follows revenue trends, indicating efficient cost management.
-- Profitability (Gross & Net Profit Margin)
-- Gross profit margin remains strong, showing Apple’s ability to maintain pricing power despite competition.
-- Net profit margin stability indicates operational efficiency and strong brand loyalty.
+- Revenues and net income have declined since 2021, indicating challenges in sustaining growth.
+- Net income trends closely follow revenue, but recent drops point to rising costs and margin pressure.
+
+**Profitability (Gross & Net Profit Margin)**
+
+- Gross Profit Margin (GPM) is increasing, demonstrating Apple’s success in managing production costs and maintaining pricing power.
+- Net Profit Margin is declining, highlighting that higher operating expenses are reducing overall profitability.
 
 **Debt-to-Equity Ratio**
 
-- Apple maintains a moderate debt-to-equity ratio, suggesting it balances debt financing with equity effectively.
-- Financial risk remains under control, making Apple attractive to investors.
+- Apple maintains a moderate debt-to-equity ratio, showcasing a balanced approach between leveraging debt and equity.
+- Financial leverage appears well-managed, enhancing Apple’s appeal to risk-conscious investors.
 
 **Cash Flow Analysis**
 
-- Positive Operating Cash Flow confirms strong core business performance.
-- Negative Investing Cash Flow reflects continuous reinvestment in R&D, innovation, and infrastructure.
-- Financing cash flows show debt repayments and share buybacks, consistent with Apple’s capital return program.
+- Operating Cash Flow remains positive and strong, reflecting solid performance in core operations.
+- Investing Cash Flow is negative, which is typical for a high-growth, innovation-focused company reinvesting in R&D and infrastructure.
+- Financing Cash Flow shows activities like share buybacks and debt repayment, consistent with Apple’s shareholder return strategy.
 
 **Return on Equity (ROE)**
 
-- High and consistent ROE highlights Apple’s efficiency in generating returns for shareholders.
-- Reflects strong profitability and effective use of shareholder capital.
+- ROE is declining recently, indicating a decrease in profit generation relative to shareholder equity.
+- Despite the decline, Apple's ROE remains strong, confirming efficient use of shareholder capital.
 
 ## Conclusion
 
-- Apple demonstrates financial strength, profitability, and consistent shareholder returns.
-- Its strong margins and operating cash flow suggest resilience in competitive markets.
-- Debt levels are manageable, supporting long-term sustainability.
-- Continuous investment in innovation ensures future growth potential.
+- Apple shows resilience with strong gross margins and positive operating cash flow.
+- However, the decline in revenue, net income, and ROE since 2021 highlights pressure from rising costs and slower growth.
+- Debt levels remain manageable, reflecting a balanced capital structure.
+- Continuous investment in R&D and innovation ensures Apple’s long-term competitiveness despite short-term challenges.
 
-**Business Viewpoint:** 
+**Business Viewpoint**
 
-Apple remains a financially healthy company with strong fundamentals, making it an attractive option for both investors and stakeholders.
+Apple remains a fundamentally strong company, but recent financial trends suggest the need for cost optimization and diversified revenue streams.
+It continues to be an attractive option for long-term investors due to its brand strength, innovation focus, and shareholder return policies.
